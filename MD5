@@ -1,0 +1,14 @@
+1f7a0bbf29340b75c7e7bdf11325d8ef *DESCRIPTION
+d67253562158b4a8e6ddc1b9e9100f48 *LICENSE
+7e391a4709df315a40f2e2a79c468bc1 *NAMESPACE
+bae5cac8eea873afa4eae367df72d4a1 *R/WEGE.R
+343942b2d58dcf727ed4f3cf493aecd6 *R/get_edge_function.R
+ef1efbc92d4aa89d916801a24b9900fc *R/get_kba_criteria_function.R
+834f07bcd5608cc58da6b9c50eb4a806 *R/get_wege_function.R
+d15d190f83601d70d81b6517707e19c3 *R/spat_ras_function.R
+b80c3c3bb0dbe8ee5337529a45181fef *README.md
+51136d86fba2421ba7d151ba8b7736e9 *man/WEGE.Rd
+fbd4bc9e31df17a370ea1b9d9f520fae *man/get_edge.Rd
+dfb26b00bd9fd2da62f6a1e113f6fa91 *man/get_kba_criteria.Rd
+457a3044df20532e8fcce0af8edf7203 *man/get_wege.Rd
+4341830c114bfb3d7e20646a52789b6f *man/spat_ras.Rd
